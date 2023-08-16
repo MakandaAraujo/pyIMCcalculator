@@ -15,3 +15,6 @@ elif 35 <= imc <= 39.9:
     print('Obesidade nivel 2(severa)')
 else:
     print('Obesidade nivel 3(mórbida)')
+
+
+#Potenciação 3⁴ = 3**4
